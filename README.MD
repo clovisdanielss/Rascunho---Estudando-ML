@@ -9,4 +9,4 @@ Esse repositório tem como objetivo guardar meus estudos e experimentos com PYTH
 
 Não aceito PRs, mas podem clonar a vontade se achar que vai lhe ajudar. Também dentro desse repo tem mais materiais que não incluí porque não estão tão organizado quando esses, sinta-se livre para dar uma olhada.
 
-Este curso é baseado em um curso do coursera.
+Este curso é baseado em um curso do coursera..
