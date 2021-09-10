@@ -1,2 +1,5 @@
 *datasets
 *venv
+.vscode*
+.ipynb_checkpoints*
+.idea*
