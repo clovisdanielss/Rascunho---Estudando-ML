@@ -21,7 +21,7 @@ Esse repositório tem como objetivo guardar meus estudos e experimentos com PYTH
    3. [Mais sobre Regressões](./Python%20Scripts/NLP/Algorithms_Regressions.ipynb)
    4. [Árvores de Decisão](./Python%20Scripts/NLP/Algorithms_DecisionTrees.ipynb)
 5. [Análise de Series Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series)
-   1.[Introdução a Séries Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series/Time_Series_Forecast.ipynb)
+   1. [Introdução a Séries Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series/Time_Series_Forecast.ipynb)
 
 Outros rascunhos podem ser encontrados aqui, mas esses são os que estão mais elaborados.
 
