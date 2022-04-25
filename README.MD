@@ -20,9 +20,9 @@ Esse repositório tem como objetivo guardar meus estudos e experimentos com PYTH
    2. [Regressão Logística](./Python%20Scripts/NLP/Algorithms_LogisticRegression.ipynb)
    3. [Mais sobre Regressões](./Python%20Scripts/NLP/Algorithms_Regressions.ipynb)
    4. [Árvores de Decisão](./Python%20Scripts/NLP/Algorithms_DecisionTrees.ipynb)
+5. [Análise de Series Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series)
+   1.[Introdução a Séries Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series/Time_Series_Forecast.ipynb)
 
 Outros rascunhos podem ser encontrados aqui, mas esses são os que estão mais elaborados.
 
 Não aceito PRs, mas podem clonar a vontade se achar que vai lhe ajudar. Também dentro desse repo tem mais materiais que não incluí porque não estão tão organizado quando esses, sinta-se livre para dar uma olhada.
-
-Este curso é baseado em um curso do coursera..
