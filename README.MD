@@ -25,8 +25,10 @@ Esse repositório tem como objetivo guardar meus estudos e experimentos com PYTH
    5. [Árvores de Decisão](./Python%20Scripts/NLP/Algorithms_DecisionTrees.ipynb)
 
 **📖 Redes Neurais Aplicadas**
-1. [Regressão em Redes Neurais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/nn-regression/Class_NNRegression.ipynb)
-2. [Análise de Series Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series)
+1. [Regressão em Redes Neurais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/nn-regression/)
+   1. [Medical Cost](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/nn-regression/Class_NNRegression.ipynb)
+   2. [Boston Pricing](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/nn-regression/Boston_Pricing_Dataset_NN_Regression.ipynb)
+3. [Análise de Series Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series)
    1. [Introdução a Séries Temporais](https://github.com/clovisdanielss/Estudando/blob/master/Python%20Scripts/time-series/Time_Series_Forecast.ipynb)
 
 Outros rascunhos podem ser encontrados aqui, mas esses são os que estão mais elaborados.
